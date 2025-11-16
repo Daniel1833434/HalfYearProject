@@ -1,5 +1,7 @@
-
 .Headline{
+    font-family: "BBH Sans Hegarty", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     color: white;
     margin-top: 0.5px;
     margin-bottom: 0.5px;
@@ -19,4 +21,17 @@
     background-color: rgb(2, 41, 89);
     box-shadow: 0px 8px 14px rgba(255, 255, 255, 0.545);
 }
+
+.LogoImg{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.navbar{
+  height: 80px;
+}
+.navbar img{
+  max-height: 50px;
+  max-width: 80px;
+}
+   
 
