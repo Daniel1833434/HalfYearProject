@@ -27,11 +27,13 @@
     margin-top: 0px;
 }
 .navbar{
-  height: 80px;
+  height: 60px;
+  background: linear-gradient(180deg, #0d6efd, #ffffff);
 }
 .navbar img{
   max-height: 50px;
-  max-width: 80px;
+  width: 75px;
+  padding-right: 40px;
 }
    
 
