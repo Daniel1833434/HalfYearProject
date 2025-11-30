@@ -29,11 +29,22 @@
 .navbar{
   height: 60px;
   background: linear-gradient(180deg, #0d6efd, #ffffff);
+  
 }
 .navbar img{
   max-height: 50px;
-  width: 75px;
-  padding-right: 40px;
+  width: 120px;
+  padding-right: 80px;    
 }
-   
+.LeaugesCards{
+  width: 250px
+}
+.TableCards{
+  width: 300px;
+}
 
+.Information{
+  color: white;
+  font-family: "BBH Sans Hegarty", sans-serif;
+  text-align: center;
+}
