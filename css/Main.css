@@ -45,11 +45,3 @@
     height: 150px;
     width: 700px;
 }
-
-.SideBySide{
-  display: flex;
-}
-.LeaguesSideBySide{
-  display: flex;
-  flex-wrap: wrap;
-}
