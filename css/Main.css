@@ -14,6 +14,7 @@
 .navbar img{
   min-width: 120px;
   padding-right: 80px;    
+  max-height:40px;
 }
 .Information{
     font-family: "BBH Sans Hegarty", sans-serif;
