@@ -16,6 +16,9 @@
   padding-right: 80px;    
   max-height:40px;
 }
+.card img{
+  height: 200px;
+}
 .Information{
     font-family: "BBH Sans Hegarty", sans-serif;
     color: white;
