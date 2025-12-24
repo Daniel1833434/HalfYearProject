@@ -19,6 +19,9 @@
 .card img{
   height: 200px;
 }
+.card iframe{
+  height: 580px;
+}
 .Information{
     font-family: "BBH Sans Hegarty", sans-serif;
     color: white;
